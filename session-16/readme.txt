@@ -1,1 +1,0 @@
-For this js course we will follow: javascript.info 
