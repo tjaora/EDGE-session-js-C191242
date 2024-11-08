@@ -1,0 +1,1 @@
+alert('Hello, Im Edge');//external js
