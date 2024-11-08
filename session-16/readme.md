@@ -23,3 +23,5 @@ important: ECMA script, ES6, ES5 (interview ques.)
 ----browser competibility concept
 
 ----browser inspect > -element -console -source -network etc 
+
+---- internal css vs internal js
