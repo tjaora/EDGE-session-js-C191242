@@ -32,3 +32,13 @@ const nextyears = [...years];
 
 nextyears.push(2026);
 console.log(nextyears);
+
+
+
+// map()
+
+//forEach()
+
+//filter()
+
+//find()
