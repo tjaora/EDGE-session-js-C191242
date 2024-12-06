@@ -42,3 +42,7 @@ console.log(nextyears);
 //filter()
 
 //find()
+
+
+//adding interactivity with state : https://nextjs.org/learn/react-foundations/updating-state 
+//useState()
